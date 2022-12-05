@@ -1,0 +1,6 @@
+
+train: /content/drive/MyDrive/yolov5/final-cut/train/images
+val: /content/drive/MyDrive/yolov5/final-cut/val/images
+
+nc: 6
+names: ['bicycle', 'cabinet', 'cardboard-box', 'dolly', 'exit-signal', 'fire-extinguisher']
